@@ -35,4 +35,5 @@
 - [Ramata KA](https://github.com/kumbissk)
 - [Modou Aicha Diop](https://github.com/modouaicha023)
 - [Malick Siguy NDIAYE](https://github.com/MalicknND)
+- [CHEIKH TIDIANE SANE](https://github.com/artefact001)
 
